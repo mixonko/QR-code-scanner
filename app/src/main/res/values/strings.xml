@@ -1,0 +1,5 @@
+<resources>
+    <string name="start">Scan</string>
+    <string name="load">Load</string>
+    <string name="app_name">Best QR Scanner</string>
+</resources>
